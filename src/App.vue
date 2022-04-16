@@ -6,11 +6,11 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
     <div class="flex items-center justify-center mt-5">
-    <div id="info" class="shadow-md bg-gray-300 w-80 h-100 rounded-lg">
-    <img src="./assets/my_image2.jpeg" class="h-48 w-96 m-auto shadow-md bg-gray-300 w-20 h-24 rounded-full" alt="No image available" >
-      <p class="text-2xl font-bold">Mattew Lingie Anak Minggat</p>
-      <p>20FTT1441</p>
-      <p>D.O.B: 06/01/2000</p>
+    <div id="info" class="shadow-md bg-gray-300 w-80 h-100 rounded-lg p-8">
+    <img src="./assets/my_image.png" class="h-48 w-96 m-auto shadow-md bg-gray-300 w-24 h-24 rounded-full" alt="No image available" ><br>
+      <p class="text-2xl font-bold">Mattew Lingie Anak Minggat</p><br>
+      <p>Student id: 20FTT1441</p>
+      <p>Group code: DWDT06</p>
       <p>School: School of Information and Technology</p>
       <p>Institution: Politeknik Brunei</p>
       <p>Course: Diploma in Web Development</p>
